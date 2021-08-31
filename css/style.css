@@ -1,6 +1,7 @@
 *{
     margin:0;
     padding: 0;
+    box-sizing: border-box;
 }
     body{
         width: 100vw;
@@ -16,7 +17,7 @@ header{
   
 }
 main{
-    background-color: blue;
+    /* background-color: blue; */
     flex-grow: 1;
     text-align: center;
 
